@@ -7,8 +7,10 @@ if you want to recurrent our project, you have to install the following environm
 - Python 3.7
 - Tensorflow 1.X
 
+## Image Processing
+
 ## Start simple
-We have prepared a trained model file as `model/ckpt/model.ckpt`, so we can start program directly:
+We have prepared a trained model file as `model_new.h5`, so we can start program directly:
 
 1. Put a expression picture in `dataset/` .
    > example picture in `dataset/300` and  `dataset/720`
