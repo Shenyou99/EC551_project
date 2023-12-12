@@ -54,3 +54,5 @@ Finally, open the Jupyter Notebook and run the `cnn.ipynb` notebook. This notebo
 ## Conclusion
 
 With both the software and hardware components, our FPGA-Based Handwritten Digit Recognition Calculator represents a cutting-edge approach to digit recognition and computation. We believe this tool will be invaluable for educational and research purposes, and we are excited to see how it can be further developed and utilized in various fields.
+
+## demo video:https://drive.google.com/file/d/1JBg2W54717aI4a6L5opAR0_qf8799LlB/view?usp=sharing
